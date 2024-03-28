@@ -1,0 +1,28 @@
+{
+  "name": "tearanker",
+  "version": "1.0.0",
+  "description": "Attempt to increase tearank.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hsfzxjy/tearanker.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsfzxjy/tearanker/issues"
+  },
+  "homepage": "https://github.com/hsfzxjy/tearanker#readme",
+  "dependencies": {
+    "byak-hexo": "^0.1.1",
+    "genko-markdown": "^1.0.0",
+    "hexo-script-reload": "^1.0.2",
+    "vanilla-typescript-sass-template": "^1.0.1"
+  }
+}
